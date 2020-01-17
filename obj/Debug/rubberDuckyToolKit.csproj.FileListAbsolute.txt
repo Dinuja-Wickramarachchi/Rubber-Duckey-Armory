@@ -1,0 +1,5 @@
+C:\Users\#ShapManasick\Downloads\New folder\rubberDuckyToolKit\obj\Debug\rubberDuckyToolKit.csprojAssemblyReference.cache
+C:\Users\#ShapManasick\Downloads\New folder\rubberDuckyToolKit\obj\Debug\rubberDuckyToolKit.Form1.resources
+C:\Users\#ShapManasick\Downloads\New folder\rubberDuckyToolKit\obj\Debug\rubberDuckyToolKit.Resources.resources
+C:\Users\#ShapManasick\Downloads\New folder\rubberDuckyToolKit\obj\Debug\rubberDuckyToolKit.csproj.GenerateResource.cache
+C:\Users\#ShapManasick\Downloads\New folder\rubberDuckyToolKit\obj\Debug\rubberDuckyToolKit.csproj.CoreCompileInputs.cache
